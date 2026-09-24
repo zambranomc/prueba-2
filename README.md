@@ -4,3 +4,4 @@ Este repositorio no es un proyecto, es una prueba para vincular GitHub a un proy
 
 Lista de pruebas
 1. Prueba commit desde repositorio local
+2. Prueba pull para actualizar cambios repositorio local
